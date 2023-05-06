@@ -1,4 +1,5 @@
 import { getDiceRollArray, getDicePlaceholderHtml, getPercentage } from './utils.js'
+import characterData from './data.js'
 
 /*
 Challenge
